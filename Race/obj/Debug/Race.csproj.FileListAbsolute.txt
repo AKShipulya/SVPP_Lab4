@@ -1,0 +1,17 @@
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\bin\Debug\Race.dll
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\bin\Debug\Race.pdb
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\Race.csproj.AssemblyReference.cache
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\UserControlCar.g.cs
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\Race_MarkupCompile.cache
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\Race_MarkupCompile.lref
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\UserControlCar.baml
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\Race.g.resources
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\Race.Properties.Resources.resources
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\Race.csproj.GenerateResource.cache
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\Race.csproj.CoreCompileInputs.cache
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\Race.dll
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\Race.pdb
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\UserControlFinish.g.cs
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\UserControlFinish.baml
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\UserControlPosition.g.cs
+C:\Users\a.shipulya\Documents\Shipulya\Softwareentwicklung\BSUIR\SVPP\Lab_4\Lab4\Race\obj\Debug\UserControlPosition.baml
